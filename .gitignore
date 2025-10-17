@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Data folders
+data/
